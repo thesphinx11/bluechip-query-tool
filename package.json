@@ -1,0 +1,37 @@
+{
+  "name": "bluechip-query-tool",
+  "version": "1.0.0",
+  "description": "Query and analyze data with precision and efficiency, making informed investment decisions.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thesphinx11/bluechip-query-tool"
+  },
+  "author": "thesphinx11",
+  "license": "MIT",
+  "dependencies": {
+    "bluechip-query-tool": "1.0.0",
+    "bluechip-chooser-toolkit": "1.0.0",
+    "fs-extra": "1.0.0",
+    "redux": "1.0.0",
+    "supertest": "1.0.0",
+    "lodash": "1.0.0",
+    "dotenv": "1.0.0",
+    "react-redux": "1.0.0",
+    "enzyme": "1.0.0",
+    "pg": "1.0.0",
+    "moment": "1.0.0",
+    "web3": "1.0.0",
+    "node-sass": "1.0.0",
+    "xml2js": "1.0.0",
+    "ethers": "1.0.0",
+    "cheerio": "1.0.0",
+    "firebase": "1.0.0",
+    "multer": "1.0.0",
+    "bcrypt": "1.0.0",
+    "socket.io": "1.0.0"
+  }
+}
